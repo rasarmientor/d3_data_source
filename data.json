@@ -344,7 +344,7 @@
                 "University":"Universidad de Belgrano",
                 "Type":"Private",
                 "AverageScore":28.95
-            }"
+            }
         ],
         "Australia":[
             {
@@ -451,7 +451,7 @@
                 "University":"James Cook University",
                 "Type":"Public",
                 "AverageScore":29.68
-            }"
+            }
         ],
         "Austria":[
             {
@@ -468,14 +468,14 @@
                 "University":"Universität Innsbruck",
                 "Type":"Public",
                 "AverageScore":36.68
-            }"
+            }
         ],
         "Belarus":[
             {
                 "University":"Belarusian State University",
                 "Type":"Public",
                 "AverageScore":32.97
-            }"
+            }
         ],
         "Belgium":[
             {
@@ -512,7 +512,7 @@
                 "University":"Université de Liège",
                 "Type":"Public",
                 "AverageScore":29.58
-            }"
+            }
         ],
         "Brazil":[
             {
@@ -529,7 +529,7 @@
                 "University":"Universidade Federal do Rio de Janeiro",
                 "Type":"Public",
                 "AverageScore":32
-            }"
+            }
         ],
         "Canada":[
             {
@@ -606,7 +606,7 @@
                 "University":"Université Laval",
                 "Type":"Public",
                 "AverageScore":29.08
-            }"
+            }
         ],
         "Chile":[
             {
@@ -618,7 +618,7 @@
                 "University":"Universidad de Chile",
                 "Type":"Public",
                 "AverageScore":45.62
-            }"
+            }
         ],
         "China (Mainland)":[
             {
@@ -690,7 +690,7 @@
                 "University":"Nankai University",
                 "Type":"Public",
                 "AverageScore":31.85
-            }"
+            }
         ],
         "Colombia":[
             {
@@ -702,14 +702,14 @@
                 "University":"Universidad Nacional de Colombia",
                 "Type":"Public",
                 "AverageScore":37.95
-            }"
+            }
         ],
         "Czech Republic":[
             {
                 "University":"Charles University",
                 "Type":"Public",
                 "AverageScore":35.8
-            }"
+            }
         ],
         "Denmark":[
             {
@@ -736,21 +736,21 @@
                 "University":"University of Southern Denmark (SDU)",
                 "Type":"Public",
                 "AverageScore":30.92
-            }"
+            }
         ],
         "Egypt":[
             {
                 "University":"The American University in Cairo",
                 "Type":"Private",
                 "AverageScore":28.67
-            }"
+            }
         ],
         "Estonia":[
             {
                 "University":"University of Tartu",
                 "Type":"Public",
                 "AverageScore":34.47
-            }"
+            }
         ],
         "Finland":[
             {
@@ -772,7 +772,7 @@
                 "University":"University of Jyväskylä",
                 "Type":"Public",
                 "AverageScore":32.27
-            }"
+            }
         ],
         "France":[
             {
@@ -804,7 +804,7 @@
                 "University":"Université de Strasbourg",
                 "Type":"Public",
                 "AverageScore":32.12
-            }"
+            }
         ],
         "Germany":[
             {
@@ -911,7 +911,7 @@
                 "University":"Universität Jena",
                 "Type":"Public",
                 "AverageScore":32.47
-            }"
+            }
         ],
         "Hong Kong SAR":[
             {
@@ -943,7 +943,7 @@
                 "University":"Hong Kong Baptist University",
                 "Type":"Public",
                 "AverageScore":36.68
-            }"
+            }
         ],
         "India":[
             {
@@ -975,14 +975,14 @@
                 "University":"Indian Institute of Technology Kharagpur (IIT-KGP)",
                 "Type":"Public",
                 "AverageScore":35.37
-            }"
+            }
         ],
         "Indonesia":[
             {
                 "University":"Universitas Indonesia",
                 "Type":"Public",
                 "AverageScore":35.47
-            }"
+            }
         ],
         "Ireland":[
             {
@@ -1009,7 +1009,7 @@
                 "University":"Dublin City University",
                 "Type":"Public",
                 "AverageScore":27.77
-            }"
+            }
         ],
         "Israel":[
             {
@@ -1031,7 +1031,7 @@
                 "University":"Ben-Gurion University of The Negev",
                 "Type":"Public",
                 "AverageScore":29.15
-            }"
+            }
         ],
         "Italy":[
             {
@@ -1058,7 +1058,7 @@
                 "University":"Politecnico di Torino",
                 "Type":"Public",
                 "AverageScore":33.17
-            }"
+            }
         ],
         "Japan":[
             {
@@ -1130,7 +1130,7 @@
                 "University":"Kobe University",
                 "Type":"Public",
                 "AverageScore":30.28
-            }"
+            }
         ],
         "Kazakhstan":[
             {
@@ -1142,14 +1142,14 @@
                 "University":"L.N. Gumilyov Eurasian National University (ENU)",
                 "Type":"Public",
                 "AverageScore":31.28
-            }"
+            }
         ],
         "Lebanon":[
             {
                 "University":"American University of Beirut (AUB)",
                 "Type":"Private",
                 "AverageScore":40.6
-            }"
+            }
         ],
         "Malaysia":[
             {
@@ -1176,7 +1176,7 @@
                 "University":"Universiti Teknologi Malaysia ",
                 "Type":"Public",
                 "AverageScore":41.62
-            }"
+            }
         ],
         "Mexico":[
             {
@@ -1188,7 +1188,7 @@
                 "University":"Tecnológico de Monterrey",
                 "Type":"Private",
                 "AverageScore":47.82
-            }"
+            }
         ],
         "Netherlands":[
             {
@@ -1255,7 +1255,7 @@
                 "University":"Tilburg University",
                 "Type":"Public",
                 "AverageScore":31.88
-            }"
+            }
         ],
         "New Zealand":[
             {
@@ -1287,7 +1287,7 @@
                 "University":"Lincoln University ",
                 "Type":"Public",
                 "AverageScore":32.02
-            }"
+            }
         ],
         "Norway":[
             {
@@ -1309,14 +1309,14 @@
                 "University":"University of Tromsø The Arctic University of Norway",
                 "Type":"Public",
                 "AverageScore":29.35
-            }"
+            }
         ],
         "Philippines":[
             {
                 "University":"University of the Philippines",
                 "Type":"Public",
                 "AverageScore":30.03
-            }"
+            }
         ],
         "Portugal":[
             {
@@ -1333,14 +1333,14 @@
                 "University":"Universidade Nova de Lisboa",
                 "Type":"Public",
                 "AverageScore":28.97
-            }"
+            }
         ],
         "Qatar":[
             {
                 "University":"Qatar University",
                 "Type":"Public",
                 "AverageScore":35.13
-            }"
+            }
         ],
         "Russia":[
             {
@@ -1377,7 +1377,7 @@
                 "University":"National Research Tomsk Polytechnic University",
                 "Type":"Public",
                 "AverageScore":29.33
-            }"
+            }
         ],
         "Saudi Arabia":[
             {
@@ -1394,7 +1394,7 @@
                 "University":"King Saud University",
                 "Type":"Public",
                 "AverageScore":38.65
-            }"
+            }
         ],
         "Singapore":[
             {
@@ -1406,7 +1406,7 @@
                 "University":"Nanyang Technological University, Singapore (NTU)",
                 "Type":"Public",
                 "AverageScore":91.23
-            }"
+            }
         ],
         "South Africa":[
             {
@@ -1423,7 +1423,7 @@
                 "University":"Stellenbosch University",
                 "Type":"Public",
                 "AverageScore":28.1
-            }"
+            }
         ],
         "South Korea":[
             {
@@ -1475,7 +1475,7 @@
                 "University":"Chung-Ang University (CAU)",
                 "Type":"Private",
                 "AverageScore":28.44
-            }"
+            }
         ],
         "Spain":[
             {
@@ -1517,7 +1517,7 @@
                 "University":"Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
                 "Type":"Public",
                 "AverageScore":35.23
-            }"
+            }
         ],
         "Sweden":[
             {
@@ -1559,7 +1559,7 @@
                 "University":"Umea University",
                 "Type":"Public",
                 "AverageScore":32.95
-            }"
+            }
         ],
         "Switzerland":[
             {
@@ -1601,7 +1601,7 @@
                 "University":"University of St.Gallen (HSG)",
                 "Type":"Public",
                 "AverageScore":29.98
-            }"
+            }
         ],
         "Taiwan":[
             {
@@ -1633,7 +1633,7 @@
                 "University":"National Sun Yat-sen University",
                 "Type":"Public",
                 "AverageScore":28.73
-            }"
+            }
         ],
         "Thailand":[
             {
@@ -1645,7 +1645,7 @@
                 "University":"Mahidol University",
                 "Type":"Public",
                 "AverageScore":35.13
-            }"
+            }
         ],
         "United Kingdom":[
             {
@@ -1872,7 +1872,7 @@
                 "University":"Oxford Brookes University",
                 "Type":"Public",
                 "AverageScore":30.08
-            }"
+            }
         ],
         "United States":[
             {
