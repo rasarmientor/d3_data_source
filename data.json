@@ -1,0 +1,1742 @@
+{
+    "Countries":[
+        {
+            "Country":"United States",
+            "TopUniversities":73
+        },
+        {
+            "Country":"United Kingdom",
+            "TopUniversities":45
+        },
+        {
+            "Country":"Australia",
+            "TopUniversities":21
+        },
+        {
+            "Country":"Germany",
+            "TopUniversities":21
+        },
+        {
+            "Country":"Canada",
+            "TopUniversities":15
+        },
+        {
+            "Country":"China (Mainland)",
+            "TopUniversities":14
+        },
+        {
+            "Country":"Japan",
+            "TopUniversities":14
+        },
+        {
+            "Country":"Netherlands",
+            "TopUniversities":13
+        },
+        {
+            "Country":"South Korea",
+            "TopUniversities":10
+        },
+        {
+            "Country":"Spain",
+            "TopUniversities":8
+        },
+        {
+            "Country":"Sweden",
+            "TopUniversities":8
+        },
+        {
+            "Country":"Switzerland",
+            "TopUniversities":8
+        },
+        {
+            "Country":"Russia",
+            "TopUniversities":7
+        },
+        {
+            "Country":"Belgium",
+            "TopUniversities":7
+        },
+        {
+            "Country":"India",
+            "TopUniversities":6
+        },
+        {
+            "Country":"France",
+            "TopUniversities":6
+        },
+        {
+            "Country":"Taiwan",
+            "TopUniversities":6
+        },
+        {
+            "Country":"Hong Kong SAR",
+            "TopUniversities":6
+        },
+        {
+            "Country":"New Zealand",
+            "TopUniversities":6
+        },
+        {
+            "Country":"Malaysia",
+            "TopUniversities":5
+        },
+        {
+            "Country":"Denmark",
+            "TopUniversities":5
+        },
+        {
+            "Country":"Ireland",
+            "TopUniversities":5
+        },
+        {
+            "Country":"Italy",
+            "TopUniversities":5
+        },
+        {
+            "Country":"Israel",
+            "TopUniversities":4
+        },
+        {
+            "Country":"Norway",
+            "TopUniversities":4
+        },
+        {
+            "Country":"Finland",
+            "TopUniversities":4
+        },
+        {
+            "Country":"Argentina",
+            "TopUniversities":4
+        },
+        {
+            "Country":"South Africa",
+            "TopUniversities":3
+        },
+        {
+            "Country":"Brazil",
+            "TopUniversities":3
+        },
+        {
+            "Country":"Austria",
+            "TopUniversities":3
+        },
+        {
+            "Country":"Portugal",
+            "TopUniversities":3
+        },
+        {
+            "Country":"Saudi Arabia",
+            "TopUniversities":3
+        },
+        {
+            "Country":"Thailand",
+            "TopUniversities":2
+        },
+        {
+            "Country":"Colombia",
+            "TopUniversities":2
+        },
+        {
+            "Country":"Chile",
+            "TopUniversities":2
+        },
+        {
+            "Country":"Kazakhstan",
+            "TopUniversities":2
+        },
+        {
+            "Country":"Mexico",
+            "TopUniversities":2
+        },
+        {
+            "Country":"Singapore",
+            "TopUniversities":2
+        },
+        {
+            "Country":"Indonesia",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Egypt",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Czech Republic",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Philippines",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Estonia",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Lebanon",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Qatar",
+            "TopUniversities":1
+        },
+        {
+            "Country":"Belarus",
+            "TopUniversities":1
+        }
+    ],
+    "Universities":{
+        "Argentina":[
+            {
+                "University":"Universidad de Buenos Aires (UBA)",
+                "AverageScore":67.08
+            },
+            {
+                "University":"Pontificia Universidad Católica Argentina",
+                "AverageScore":32.53
+            },
+            {
+                "University":"Universidad Austral",
+                "AverageScore":30.58
+            },
+            {
+                "University":"Universidad de Belgrano",
+                "AverageScore":28.95
+            }
+        ],
+        "Australia":[
+            {
+                "University":"The Australian National University",
+                "AverageScore":84.15
+            },
+            {
+                "University":"The University of Melbourne",
+                "AverageScore":79.57
+            },
+            {
+                "University":"The University of Sydney",
+                "AverageScore":78.25
+            },
+            {
+                "University":"The University of New South Wales (UNSW Sydney)",
+                "AverageScore":77.32
+            },
+            {
+                "University":"The University of Queensland",
+                "AverageScore":76.45
+            },
+            {
+                "University":"Monash University",
+                "AverageScore":71.52
+            },
+            {
+                "University":"The University of Western Australia",
+                "AverageScore":62.75
+            },
+            {
+                "University":"The University of Adelaide",
+                "AverageScore":58.33
+            },
+            {
+                "University":"University of Technology Sydney",
+                "AverageScore":50.67
+            },
+            {
+                "University":"University of Wollongong",
+                "AverageScore":43.37
+            },
+            {
+                "University":"The University of Newcastle, Australia (UON)",
+                "AverageScore":43.02
+            },
+            {
+                "University":"Macquarie University",
+                "AverageScore":41.02
+            },
+            {
+                "University":"RMIT University",
+                "AverageScore":40.37
+            },
+            {
+                "University":"Queensland University of Technology (QUT)",
+                "AverageScore":40.28
+            },
+            {
+                "University":"Curtin University",
+                "AverageScore":39.98
+            },
+            {
+                "University":"University of South Australia",
+                "AverageScore":36.07
+            },
+            {
+                "University":"Deakin University",
+                "AverageScore":35.42
+            },
+            {
+                "University":"University of Tasmania",
+                "AverageScore":34.35
+            },
+            {
+                "University":"Griffith University",
+                "AverageScore":34.08
+            },
+            {
+                "University":"La Trobe University",
+                "AverageScore":29.9
+            },
+            {
+                "University":"James Cook University",
+                "AverageScore":29.68
+            }
+        ],
+        "Austria":[
+            {
+                "University":"University of Vienna",
+                "AverageScore":50.45
+            },
+            {
+                "University":"Technische Universität Wien",
+                "AverageScore":46.18
+            },
+            {
+                "University":"Universität Innsbruck",
+                "AverageScore":36.68
+            }
+        ],
+        "Belarus":[
+            {
+                "University":"Belarusian State University",
+                "AverageScore":32.97
+            }
+        ],
+        "Belgium":[
+            {
+                "University":"KU Leuven",
+                "AverageScore":65.83
+            },
+            {
+                "University":"Ghent University",
+                "AverageScore":54.23
+            },
+            {
+                "University":"Université catholique de Louvain (UCLouvain)",
+                "AverageScore":48.72
+            },
+            {
+                "University":"Vrije Universiteit Brussel (VUB)",
+                "AverageScore":45.32
+            },
+            {
+                "University":"University of Antwerp",
+                "AverageScore":42.05
+            },
+            {
+                "University":"Universite libre de Bruxelles",
+                "AverageScore":41.5
+            },
+            {
+                "University":"Université de Liège",
+                "AverageScore":29.58
+            }
+        ],
+        "Brazil":[
+            {
+                "University":"Universidade de São Paulo",
+                "AverageScore":56.63
+            },
+            {
+                "University":"Universidade Estadual de Campinas (Unicamp)",
+                "AverageScore":43.9
+            },
+            {
+                "University":"Universidade Federal do Rio de Janeiro",
+                "AverageScore":32
+            }
+        ],
+        "Canada":[
+            {
+                "University":"University of Toronto",
+                "AverageScore":83.48
+            },
+            {
+                "University":"McGill University",
+                "AverageScore":82.35
+            },
+            {
+                "University":"University of British Columbia",
+                "AverageScore":76.28
+            },
+            {
+                "University":"University of Alberta",
+                "AverageScore":59.02
+            },
+            {
+                "University":"Université de Montréal ",
+                "AverageScore":54.88
+            },
+            {
+                "University":"McMaster University",
+                "AverageScore":52.57
+            },
+            {
+                "University":"University of Waterloo",
+                "AverageScore":49.93
+            },
+            {
+                "University":"Western University",
+                "AverageScore":44.77
+            },
+            {
+                "University":"University of Calgary",
+                "AverageScore":41.77
+            },
+            {
+                "University":"Queen's University at Kingston",
+                "AverageScore":40.53
+            },
+            {
+                "University":"Simon Fraser University",
+                "AverageScore":37.07
+            },
+            {
+                "University":"University of Ottawa",
+                "AverageScore":36.9
+            },
+            {
+                "University":"Dalhousie University",
+                "AverageScore":36.5
+            },
+            {
+                "University":"University of Victoria (UVic)",
+                "AverageScore":31.9
+            },
+            {
+                "University":"Université Laval",
+                "AverageScore":29.08
+            }
+        ],
+        "Chile":[
+            {
+                "University":"Pontificia Universidad Católica de Chile (UC)",
+                "AverageScore":54.07
+            },
+            {
+                "University":"Universidad de Chile",
+                "AverageScore":45.62
+            }
+        ],
+        "China (Mainland)":[
+            {
+                "University":"Tsinghua University",
+                "AverageScore":87.6
+            },
+            {
+                "University":"Peking University",
+                "AverageScore":83.55
+            },
+            {
+                "University":"Fudan University",
+                "AverageScore":79.78
+            },
+            {
+                "University":"Shanghai Jiao Tong University",
+                "AverageScore":72.6
+            },
+            {
+                "University":"Zhejiang University",
+                "AverageScore":69.45
+            },
+            {
+                "University":"University of Science and Technology of China",
+                "AverageScore":61.88
+            },
+            {
+                "University":"Nanjing University",
+                "AverageScore":56.3
+            },
+            {
+                "University":"Wuhan University",
+                "AverageScore":38.32
+            },
+            {
+                "University":"Beijing Normal University ",
+                "AverageScore":37.27
+            },
+            {
+                "University":"Tongji University",
+                "AverageScore":37.2
+            },
+            {
+                "University":"Harbin Institute of Technology",
+                "AverageScore":36.8
+            },
+            {
+                "University":"Sun Yat-sen University",
+                "AverageScore":36.05
+            },
+            {
+                "University":"Xi’an Jiaotong University",
+                "AverageScore":34.38
+            },
+            {
+                "University":"Nankai University",
+                "AverageScore":31.85
+            }
+        ],
+        "Colombia":[
+            {
+                "University":"Universidad de los Andes",
+                "AverageScore":39
+            },
+            {
+                "University":"Universidad Nacional de Colombia",
+                "AverageScore":37.95
+            }
+        ],
+        "Czech Republic":[
+            {
+                "University":"Charles University",
+                "AverageScore":35.8
+            }
+        ],
+        "Denmark":[
+            {
+                "University":"University of Copenhagen",
+                "AverageScore":66.28
+            },
+            {
+                "University":"Technical University of Denmark",
+                "AverageScore":59.13
+            },
+            {
+                "University":"Aarhus University",
+                "AverageScore":53.62
+            },
+            {
+                "University":"Aalborg University",
+                "AverageScore":32.52
+            },
+            {
+                "University":"University of Southern Denmark (SDU)",
+                "AverageScore":30.92
+            }
+        ],
+        "Egypt":[
+            {
+                "University":"The American University in Cairo",
+                "AverageScore":28.67
+            }
+        ],
+        "Estonia":[
+            {
+                "University":"University of Tartu",
+                "AverageScore":34.47
+            }
+        ],
+        "Finland":[
+            {
+                "University":"University of Helsinki",
+                "AverageScore":60.17
+            },
+            {
+                "University":"Aalto University",
+                "AverageScore":54.48
+            },
+            {
+                "University":"University of Turku",
+                "AverageScore":36.98
+            },
+            {
+                "University":"University of Jyväskylä",
+                "AverageScore":32.27
+            }
+        ],
+        "France":[
+            {
+                "University":"École Normale Supérieure de Lyon",
+                "AverageScore":50.43
+            },
+            {
+                "University":"Université Paris-Saclay",
+                "AverageScore":43.15
+            },
+            {
+                "University":"Ecole des Ponts ParisTech",
+                "AverageScore":38.48
+            },
+            {
+                "University":"Université Paris 1 Panthéon-Sorbonne",
+                "AverageScore":36.98
+            },
+            {
+                "University":"Université Grenoble Alpes",
+                "AverageScore":36.68
+            },
+            {
+                "University":"Université de Strasbourg",
+                "AverageScore":32.12
+            }
+        ],
+        "Germany":[
+            {
+                "University":"Technical University of Munich",
+                "AverageScore":72.65
+            },
+            {
+                "University":"Ludwig-Maximilians-Universität München",
+                "AverageScore":69.83
+            },
+            {
+                "University":"Ruprecht-Karls-Universität Heidelberg",
+                "AverageScore":69.32
+            },
+            {
+                "University":"KIT, Karlsruhe Institute of Technology",
+                "AverageScore":56.85
+            },
+            {
+                "University":"Humboldt-Universität zu Berlin",
+                "AverageScore":56.17
+            },
+            {
+                "University":"Freie Universitaet Berlin",
+                "AverageScore":55.27
+            },
+            {
+                "University":"RWTH Aachen University",
+                "AverageScore":52.05
+            },
+            {
+                "University":"Technische Universität Berlin (TU Berlin)",
+                "AverageScore":51.32
+            },
+            {
+                "University":"Eberhard Karls Universität Tübingen",
+                "AverageScore":48.52
+            },
+            {
+                "University":"Albert-Ludwigs-Universitaet Freiburg",
+                "AverageScore":48.08
+            },
+            {
+                "University":"Technische Universität Dresden",
+                "AverageScore":45.97
+            },
+            {
+                "University":"University of Göttingen",
+                "AverageScore":45.7
+            },
+            {
+                "University":"Universität Hamburg",
+                "AverageScore":41.57
+            },
+            {
+                "University":"Rheinische Friedrich-Wilhelms-Universität Bonn",
+                "AverageScore":40.1
+            },
+            {
+                "University":"Technical University of Darmstadt",
+                "AverageScore":38.1
+            },
+            {
+                "University":"Goethe-University Frankfurt am Main",
+                "AverageScore":36.02
+            },
+            {
+                "University":"Universität Stuttgart",
+                "AverageScore":35.93
+            },
+            {
+                "University":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
+                "AverageScore":35.1
+            },
+            {
+                "University":"University of Cologne",
+                "AverageScore":34.33
+            },
+            {
+                "University":"Westfälische Wilhelms-Universität Münster ",
+                "AverageScore":32.58
+            },
+            {
+                "University":"Universität Jena",
+                "AverageScore":32.47
+            }
+        ],
+        "Hong Kong SAR":[
+            {
+                "University":"The University of Hong Kong",
+                "AverageScore":84.83
+            },
+            {
+                "University":"The Hong Kong University of Science and Technology",
+                "AverageScore":81.92
+            },
+            {
+                "University":"The Chinese University of Hong Kong (CUHK)",
+                "AverageScore":77.42
+            },
+            {
+                "University":"City University of Hong Kong",
+                "AverageScore":74.73
+            },
+            {
+                "University":"The Hong Kong Polytechnic University",
+                "AverageScore":63.72
+            },
+            {
+                "University":"Hong Kong Baptist University",
+                "AverageScore":36.68
+            }
+        ],
+        "India":[
+            {
+                "University":"Indian Institute of Science",
+                "AverageScore":47.73
+            },
+            {
+                "University":"Indian Institute of Technology Bombay (IITB)",
+                "AverageScore":47.38
+            },
+            {
+                "University":"Indian Institute of Technology Delhi (IITD)",
+                "AverageScore":46.98
+            },
+            {
+                "University":"Indian Institute of Technology Madras (IITM)",
+                "AverageScore":37.93
+            },
+            {
+                "University":"Indian Institute of Technology Kanpur (IITK)",
+                "AverageScore":35.38
+            },
+            {
+                "University":"Indian Institute of Technology Kharagpur (IIT-KGP)",
+                "AverageScore":35.37
+            }
+        ],
+        "Indonesia":[
+            {
+                "University":"Universitas Indonesia",
+                "AverageScore":35.47
+            }
+        ],
+        "Ireland":[
+            {
+                "University":"Trinity College Dublin, The University of Dublin",
+                "AverageScore":60.67
+            },
+            {
+                "University":"University College Dublin",
+                "AverageScore":47.35
+            },
+            {
+                "University":"National University of Ireland Galway",
+                "AverageScore":38.85
+            },
+            {
+                "University":"University College Cork",
+                "AverageScore":35.22
+            },
+            {
+                "University":"Dublin City University",
+                "AverageScore":27.77
+            }
+        ],
+        "Israel":[
+            {
+                "University":"The Hebrew University of Jerusalem",
+                "AverageScore":49.4
+            },
+            {
+                "University":"Tel Aviv University",
+                "AverageScore":41.93
+            },
+            {
+                "University":"Technion - Israel Institute of Technology",
+                "AverageScore":38.68
+            },
+            {
+                "University":"Ben-Gurion University of The Negev",
+                "AverageScore":29.15
+            }
+        ],
+        "Italy":[
+            {
+                "University":"Politecnico di Milano",
+                "AverageScore":50.62
+            },
+            {
+                "University":"Alma Mater Studiorum - University of Bologna",
+                "AverageScore":47.25
+            },
+            {
+                "University":"Sapienza University of Rome",
+                "AverageScore":44.78
+            },
+            {
+                "University":"University of Milan",
+                "AverageScore":33.67
+            },
+            {
+                "University":"Politecnico di Torino",
+                "AverageScore":33.17
+            }
+        ],
+        "Japan":[
+            {
+                "University":"The University of Tokyo",
+                "AverageScore":84.4
+            },
+            {
+                "University":"Kyoto University",
+                "AverageScore":81.02
+            },
+            {
+                "University":"Tokyo Institute of Technology (Tokyo Tech)",
+                "AverageScore":72.65
+            },
+            {
+                "University":"Osaka University",
+                "AverageScore":68.38
+            },
+            {
+                "University":"Tohoku University",
+                "AverageScore":65.87
+            },
+            {
+                "University":"Nagoya University",
+                "AverageScore":57.57
+            },
+            {
+                "University":"Kyushu University",
+                "AverageScore":54.83
+            },
+            {
+                "University":"Hokkaido University",
+                "AverageScore":54.48
+            },
+            {
+                "University":"Keio University",
+                "AverageScore":44.93
+            },
+            {
+                "University":"Waseda University",
+                "AverageScore":44.68
+            },
+            {
+                "University":"University of Tsukuba",
+                "AverageScore":38.38
+            },
+            {
+                "University":"Hiroshima University",
+                "AverageScore":33.65
+            },
+            {
+                "University":"Tokyo Medical and Dental University (TMDU)",
+                "AverageScore":31.38
+            },
+            {
+                "University":"Kobe University",
+                "AverageScore":30.28
+            }
+        ],
+        "Kazakhstan":[
+            {
+                "University":"Al-Farabi Kazakh National University",
+                "AverageScore":43.92
+            },
+            {
+                "University":"L.N. Gumilyov Eurasian National University (ENU)",
+                "AverageScore":31.28
+            }
+        ],
+        "Lebanon":[
+            {
+                "University":"American University of Beirut (AUB)",
+                "AverageScore":40.6
+            }
+        ],
+        "Malaysia":[
+            {
+                "University":"Universiti Malaya (UM)",
+                "AverageScore":64.58
+            },
+            {
+                "University":"Universiti Putra Malaysia (UPM)",
+                "AverageScore":46.58
+            },
+            {
+                "University":"Universiti Kebangsaan Malaysia (UKM)",
+                "AverageScore":46.32
+            },
+            {
+                "University":"Universiti Sains Malaysia (USM)",
+                "AverageScore":44.77
+            },
+            {
+                "University":"Universiti Teknologi Malaysia ",
+                "AverageScore":41.62
+            }
+        ],
+        "Mexico":[
+            {
+                "University":"Universidad Nacional Autónoma de México  (UNAM)",
+                "AverageScore":58.33
+            },
+            {
+                "University":"Tecnológico de Monterrey",
+                "AverageScore":47.82
+            }
+        ],
+        "Netherlands":[
+            {
+                "University":"Delft University of Technology",
+                "AverageScore":73.25
+            },
+            {
+                "University":"University of Amsterdam",
+                "AverageScore":72.07
+            },
+            {
+                "University":"Eindhoven University of Technology",
+                "AverageScore":58.4
+            },
+            {
+                "University":"Leiden University",
+                "AverageScore":57.5
+            },
+            {
+                "University":"Utrecht University",
+                "AverageScore":57.37
+            },
+            {
+                "University":"University of Groningen",
+                "AverageScore":56.8
+            },
+            {
+                "University":"Wageningen University & Research",
+                "AverageScore":56.13
+            },
+            {
+                "University":"Erasmus University Rotterdam ",
+                "AverageScore":48.58
+            },
+            {
+                "University":"University of Twente",
+                "AverageScore":46.62
+            },
+            {
+                "University":"Radboud University ",
+                "AverageScore":43.65
+            },
+            {
+                "University":"Maastricht University ",
+                "AverageScore":43.07
+            },
+            {
+                "University":"Vrije Universiteit Amsterdam",
+                "AverageScore":42.52
+            },
+            {
+                "University":"Tilburg University",
+                "AverageScore":31.88
+            }
+        ],
+        "New Zealand":[
+            {
+                "University":"The University of Auckland",
+                "AverageScore":64.92
+            },
+            {
+                "University":"University of Otago",
+                "AverageScore":48.12
+            },
+            {
+                "University":"Victoria University of Wellington",
+                "AverageScore":41.9
+            },
+            {
+                "University":"Massey University",
+                "AverageScore":34.82
+            },
+            {
+                "University":"University of Waikato",
+                "AverageScore":34.08
+            },
+            {
+                "University":"Lincoln University ",
+                "AverageScore":32.02
+            }
+        ],
+        "Norway":[
+            {
+                "University":"University of Oslo",
+                "AverageScore":56.05
+            },
+            {
+                "University":"University of Bergen",
+                "AverageScore":47.37
+            },
+            {
+                "University":"Norwegian University of Science And Technology",
+                "AverageScore":33.55
+            },
+            {
+                "University":"University of Tromsø The Arctic University of Norway",
+                "AverageScore":29.35
+            }
+        ],
+        "Philippines":[
+            {
+                "University":"University of the Philippines",
+                "AverageScore":30.03
+            }
+        ],
+        "Portugal":[
+            {
+                "University":"University of Porto",
+                "AverageScore":33.5
+            },
+            {
+                "University":"University of Lisbon ",
+                "AverageScore":32.62
+            },
+            {
+                "University":"Universidade Nova de Lisboa",
+                "AverageScore":28.97
+            }
+        ],
+        "Qatar":[
+            {
+                "University":"Qatar University",
+                "AverageScore":35.13
+            }
+        ],
+        "Russia":[
+            {
+                "University":"Lomonosov Moscow State University",
+                "AverageScore":64.02
+            },
+            {
+                "University":"Saint Petersburg State University",
+                "AverageScore":40.08
+            },
+            {
+                "University":"Novosibirsk State University",
+                "AverageScore":39.22
+            },
+            {
+                "University":"Bauman Moscow State Technical University",
+                "AverageScore":35.92
+            },
+            {
+                "University":"Tomsk State University",
+                "AverageScore":35.62
+            },
+            {
+                "University":"Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+                "AverageScore":34.18
+            },
+            {
+                "University":"National Research Tomsk Polytechnic University",
+                "AverageScore":29.33
+            }
+        ],
+        "Saudi Arabia":[
+            {
+                "University":"King Fahd University of Petroleum & Minerals",
+                "AverageScore":46.75
+            },
+            {
+                "University":"King Abdulaziz University (KAU)",
+                "AverageScore":45.38
+            },
+            {
+                "University":"King Saud University",
+                "AverageScore":38.65
+            }
+        ],
+        "Singapore":[
+            {
+                "University":"National University of Singapore (NUS)",
+                "AverageScore":91.87
+            },
+            {
+                "University":"Nanyang Technological University, Singapore (NTU)",
+                "AverageScore":91.23
+            }
+        ],
+        "South Africa":[
+            {
+                "University":"University of Cape Town",
+                "AverageScore":44.27
+            },
+            {
+                "University":"University of Witwatersrand",
+                "AverageScore":29.63
+            },
+            {
+                "University":"Stellenbosch University",
+                "AverageScore":28.1
+            }
+        ],
+        "South Korea":[
+            {
+                "University":"Seoul National University",
+                "AverageScore":80.75
+            },
+            {
+                "University":"KAIST - Korea Advanced Institute of Science & Technology",
+                "AverageScore":78.77
+            },
+            {
+                "University":"Pohang University of Science And Technology (POSTECH)",
+                "AverageScore":65.33
+            },
+            {
+                "University":"Korea University",
+                "AverageScore":64.63
+            },
+            {
+                "University":"Yonsei University",
+                "AverageScore":61.4
+            },
+            {
+                "University":"Hanyang University",
+                "AverageScore":50.77
+            },
+            {
+                "University":"Kyung Hee University",
+                "AverageScore":38.47
+            },
+            {
+                "University":"Gwangju Institute of Science and Technology (GIST)",
+                "AverageScore":34
+            },
+            {
+                "University":"Ewha Womans University",
+                "AverageScore":33.35
+            },
+            {
+                "University":"Chung-Ang University (CAU)",
+                "AverageScore":28.44
+            }
+        ],
+        "Spain":[
+            {
+                "University":"Universitat de Barcelona",
+                "AverageScore":49.03
+            },
+            {
+                "University":"Universidad Autónoma de Madrid",
+                "AverageScore":45.6
+            },
+            {
+                "University":"Universitat Autònoma de Barcelona",
+                "AverageScore":44.62
+            },
+            {
+                "University":"Complutense University of Madrid",
+                "AverageScore":42.32
+            },
+            {
+                "University":"University of Navarra",
+                "AverageScore":38.83
+            },
+            {
+                "University":"Universitat Pompeu Fabra (Barcelona)",
+                "AverageScore":36.42
+            },
+            {
+                "University":"Universidad Carlos III de Madrid (UC3M)",
+                "AverageScore":35.65
+            },
+            {
+                "University":"Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
+                "AverageScore":35.23
+            }
+        ],
+        "Sweden":[
+            {
+                "University":"Lund University",
+                "AverageScore":64.25
+            },
+            {
+                "University":"KTH Royal Institute of Technology ",
+                "AverageScore":61.72
+            },
+            {
+                "University":"Uppsala University",
+                "AverageScore":57.43
+            },
+            {
+                "University":"Chalmers University of Technology",
+                "AverageScore":54.82
+            },
+            {
+                "University":"Stockholm University",
+                "AverageScore":46.68
+            },
+            {
+                "University":"University of Gothenburg",
+                "AverageScore":40.05
+            },
+            {
+                "University":"Linköping University",
+                "AverageScore":34.33
+            },
+            {
+                "University":"Umea University",
+                "AverageScore":32.95
+            }
+        ],
+        "Switzerland":[
+            {
+                "University":"ETH Zurich - Swiss Federal Institute of Technology",
+                "AverageScore":94.85
+            },
+            {
+                "University":"EPFL",
+                "AverageScore":89.22
+            },
+            {
+                "University":"University of Zurich",
+                "AverageScore":66.78
+            },
+            {
+                "University":"University of Geneva",
+                "AverageScore":59.98
+            },
+            {
+                "University":"University of Bern",
+                "AverageScore":52.93
+            },
+            {
+                "University":"University of Basel",
+                "AverageScore":51.98
+            },
+            {
+                "University":"University of Lausanne",
+                "AverageScore":50.38
+            },
+            {
+                "University":"University of St.Gallen (HSG)",
+                "AverageScore":29.98
+            }
+        ],
+        "Taiwan":[
+            {
+                "University":"National Taiwan University (NTU)",
+                "AverageScore":68.08
+            },
+            {
+                "University":"National Tsing Hua University",
+                "AverageScore":48.93
+            },
+            {
+                "University":"National Cheng Kung University (NCKU)",
+                "AverageScore":40.57
+            },
+            {
+                "University":"National Taiwan University of Science and Technology (Taiwan Tech)",
+                "AverageScore":37.77
+            },
+            {
+                "University":"National Taiwan Normal University",
+                "AverageScore":34.12
+            },
+            {
+                "University":"National Sun Yat-sen University",
+                "AverageScore":28.73
+            }
+        ],
+        "Thailand":[
+            {
+                "University":"Chulalongkorn University",
+                "AverageScore":40.08
+            },
+            {
+                "University":"Mahidol University",
+                "AverageScore":35.13
+            }
+        ],
+        "United Kingdom":[
+            {
+                "University":"University of Oxford",
+                "AverageScore":97.05
+            },
+            {
+                "University":"University of Cambridge",
+                "AverageScore":96.07
+            },
+            {
+                "University":"UCL",
+                "AverageScore":94.37
+            },
+            {
+                "University":"Imperial College London",
+                "AverageScore":94.35
+            },
+            {
+                "University":"The University of Edinburgh",
+                "AverageScore":87.43
+            },
+            {
+                "University":"King's College London",
+                "AverageScore":83.27
+            },
+            {
+                "University":"The University of Manchester",
+                "AverageScore":83.25
+            },
+            {
+                "University":"The London School of Economics and Political Science (LSE)",
+                "AverageScore":78.4
+            },
+            {
+                "University":"University of Bristol",
+                "AverageScore":75.02
+            },
+            {
+                "University":"The University of Warwick",
+                "AverageScore":72.58
+            },
+            {
+                "University":"University of Glasgow",
+                "AverageScore":68.38
+            },
+            {
+                "University":"Durham University",
+                "AverageScore":65.77
+            },
+            {
+                "University":"University of Birmingham",
+                "AverageScore":64.4
+            },
+            {
+                "University":"The University of Sheffield",
+                "AverageScore":64.22
+            },
+            {
+                "University":"University of Southampton",
+                "AverageScore":63.12
+            },
+            {
+                "University":"University of St Andrews",
+                "AverageScore":62.98
+            },
+            {
+                "University":"University of Nottingham",
+                "AverageScore":62.88
+            },
+            {
+                "University":"University of Leeds",
+                "AverageScore":62.7
+            },
+            {
+                "University":"Queen Mary University of London",
+                "AverageScore":56.35
+            },
+            {
+                "University":"Lancaster University",
+                "AverageScore":54.48
+            },
+            {
+                "University":"University of York",
+                "AverageScore":53.05
+            },
+            {
+                "University":"Cardiff University",
+                "AverageScore":51.65
+            },
+            {
+                "University":"Newcastle University",
+                "AverageScore":51.63
+            },
+            {
+                "University":"The University of Exeter",
+                "AverageScore":49.95
+            },
+            {
+                "University":"University of Bath",
+                "AverageScore":49.08
+            },
+            {
+                "University":"University of Liverpool",
+                "AverageScore":48.1
+            },
+            {
+                "University":"University of Aberdeen",
+                "AverageScore":47.4
+            },
+            {
+                "University":"University of Reading",
+                "AverageScore":45.43
+            },
+            {
+                "University":"Queen's University Belfast",
+                "AverageScore":45.15
+            },
+            {
+                "University":"University of Sussex",
+                "AverageScore":41.55
+            },
+            {
+                "University":"Loughborough University",
+                "AverageScore":41.3
+            },
+            {
+                "University":"University of Leicester",
+                "AverageScore":40.42
+            },
+            {
+                "University":"University of Surrey",
+                "AverageScore":37.75
+            },
+            {
+                "University":"Royal Holloway University of London",
+                "AverageScore":37.12
+            },
+            {
+                "University":" University of Dundee",
+                "AverageScore":36.32
+            },
+            {
+                "University":"University of Strathclyde",
+                "AverageScore":36.28
+            },
+            {
+                "University":"University of East Anglia (UEA)",
+                "AverageScore":35.93
+            },
+            {
+                "University":"Heriot-Watt University",
+                "AverageScore":35.02
+            },
+            {
+                "University":"SOAS University of London ",
+                "AverageScore":34.5
+            },
+            {
+                "University":"Birkbeck, University of London",
+                "AverageScore":34.2
+            },
+            {
+                "University":"City, University of London",
+                "AverageScore":32.57
+            },
+            {
+                "University":"Brunel University London",
+                "AverageScore":31.87
+            },
+            {
+                "University":"University of Kent",
+                "AverageScore":30.5
+            },
+            {
+                "University":"Essex, University of",
+                "AverageScore":30.48
+            },
+            {
+                "University":"Oxford Brookes University",
+                "AverageScore":30.08
+            }
+        ],
+        "United States":[
+            {
+                "University":"Massachusetts Institute of Technology (MIT) ",
+                "AverageScore":100
+            },
+            {
+                "University":"Stanford University",
+                "AverageScore":98.58
+            },
+            {
+                "University":"Harvard University",
+                "AverageScore":98.08
+            },
+            {
+                "University":"California Institute of Technology (Caltech)",
+                "AverageScore":97.18
+            },
+            {
+                "University":"University of Chicago",
+                "AverageScore":93.22
+            },
+            {
+                "University":"Princeton University",
+                "AverageScore":90.87
+            },
+            {
+                "University":"Yale University",
+                "AverageScore":89.47
+            },
+            {
+                "University":"Cornell University",
+                "AverageScore":89.42
+            },
+            {
+                "University":"University of Pennsylvania",
+                "AverageScore":88.73
+            },
+            {
+                "University":"Columbia University",
+                "AverageScore":88.1
+            },
+            {
+                "University":"Johns Hopkins University",
+                "AverageScore":86.25
+            },
+            {
+                "University":"University of Michigan-Ann Arbor",
+                "AverageScore":86.1
+            },
+            {
+                "University":"University of California, Berkeley (UCB)",
+                "AverageScore":83.2
+            },
+            {
+                "University":"Northwestern University",
+                "AverageScore":82.97
+            },
+            {
+                "University":"Duke University",
+                "AverageScore":82.05
+            },
+            {
+                "University":"University of California, Los Angeles (UCLA)",
+                "AverageScore":81.47
+            },
+            {
+                "University":"New York University (NYU)",
+                "AverageScore":78.33
+            },
+            {
+                "University":"University of California, San Diego (UCSD)",
+                "AverageScore":77.32
+            },
+            {
+                "University":"Carnegie Mellon University",
+                "AverageScore":75.37
+            },
+            {
+                "University":"Brown University",
+                "AverageScore":73.18
+            },
+            {
+                "University":"University of Wisconsin-Madison",
+                "AverageScore":71.82
+            },
+            {
+                "University":"University of Texas at Austin",
+                "AverageScore":68.95
+            },
+            {
+                "University":"University of Washington",
+                "AverageScore":68.93
+            },
+            {
+                "University":"University of Illinois at Urbana-Champaign",
+                "AverageScore":67.2
+            },
+            {
+                "University":"Georgia Institute of Technology",
+                "AverageScore":66.85
+            },
+            {
+                "University":"University of North Carolina, Chapel Hill",
+                "AverageScore":63.55
+            },
+            {
+                "University":"Rice University",
+                "AverageScore":63.33
+            },
+            {
+                "University":"Pennsylvania State University",
+                "AverageScore":62.05
+            },
+            {
+                "University":"Boston University",
+                "AverageScore":61.28
+            },
+            {
+                "University":"The Ohio State University",
+                "AverageScore":60.97
+            },
+            {
+                "University":"Washington University in St. Louis",
+                "AverageScore":59.92
+            },
+            {
+                "University":"Purdue University",
+                "AverageScore":59.63
+            },
+            {
+                "University":"University of California, Davis",
+                "AverageScore":59.6
+            },
+            {
+                "University":"University of Southern California",
+                "AverageScore":55.67
+            },
+            {
+                "University":"University of California, Santa Barbara (UCSB)",
+                "AverageScore":53.82
+            },
+            {
+                "University":"University of Maryland, College Park",
+                "AverageScore":53.6
+            },
+            {
+                "University":"University of Pittsburgh",
+                "AverageScore":51.9
+            },
+            {
+                "University":"Michigan State University",
+                "AverageScore":51.33
+            },
+            {
+                "University":"Emory University",
+                "AverageScore":50.73
+            },
+            {
+                "University":"University of Minnesota Twin Cities",
+                "AverageScore":49.55
+            },
+            {
+                "University":"University of Rochester",
+                "AverageScore":47.98
+            },
+            {
+                "University":"University of Florida",
+                "AverageScore":47.72
+            },
+            {
+                "University":"Texas A&M University",
+                "AverageScore":47.17
+            },
+            {
+                "University":"Case Western Reserve University",
+                "AverageScore":46.93
+            },
+            {
+                "University":"Dartmouth College",
+                "AverageScore":46.82
+            },
+            {
+                "University":"University of California, Irvine",
+                "AverageScore":45.92
+            },
+            {
+                "University":"University of Virginia",
+                "AverageScore":45.08
+            },
+            {
+                "University":"Vanderbilt University",
+                "AverageScore":44.52
+            },
+            {
+                "University":"University of Colorado Boulder",
+                "AverageScore":44.45
+            },
+            {
+                "University":"University of Notre Dame",
+                "AverageScore":43.25
+            },
+            {
+                "University":"Arizona State University",
+                "AverageScore":42.9
+            },
+            {
+                "University":"University of Illinois at Chicago (UIC)",
+                "AverageScore":41.65
+            },
+            {
+                "University":"Georgetown University",
+                "AverageScore":41.35
+            },
+            {
+                "University":"The University of Arizona",
+                "AverageScore":39
+            },
+            {
+                "University":"Tufts University",
+                "AverageScore":38.98
+            },
+            {
+                "University":"University of Massachusetts Amherst",
+                "AverageScore":38.08
+            },
+            {
+                "University":"University of Miami",
+                "AverageScore":37.5
+            },
+            {
+                "University":"Rutgers University–New Brunswick",
+                "AverageScore":37
+            },
+            {
+                "University":"North Carolina State University",
+                "AverageScore":36.37
+            },
+            {
+                "University":"Indiana University Bloomington",
+                "AverageScore":34.53
+            },
+            {
+                "University":"Yeshiva University",
+                "AverageScore":34.07
+            },
+            {
+                "University":"University of Hawaiʻi at Mānoa",
+                "AverageScore":33.27
+            },
+            {
+                "University":"University of California, Santa Cruz",
+                "AverageScore":32.57
+            },
+            {
+                "University":"University at Buffalo SUNY",
+                "AverageScore":32.52
+            },
+            {
+                "University":"Virginia Polytechnic Institute and State University",
+                "AverageScore":32.2
+            },
+            {
+                "University":"Northeastern University",
+                "AverageScore":32.03
+            },
+            {
+                "University":"George Washington University",
+                "AverageScore":31.87
+            },
+            {
+                "University":"Stony Brook University, State University of New York",
+                "AverageScore":30.48
+            },
+            {
+                "University":"University of California, Riverside",
+                "AverageScore":30.4
+            },
+            {
+                "University":"Rensselaer Polytechnic Institute",
+                "AverageScore":30.2
+            },
+            {
+                "University":"University of Kansas",
+                "AverageScore":29.97
+            },
+            {
+                "University":"Boston College",
+                "AverageScore":29.52
+            },
+            {
+                "University":"University of Colorado, Denver ",
+                "AverageScore":29.08
+            }
+        ]
+    }
+}
