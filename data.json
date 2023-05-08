@@ -2246,1197 +2246,1473 @@
         "Argentina":[
             {
                 "Year":2017,
-                "BestRank":85
+                "BestRank":85,
+                "AverageRank":264
             },
             {
                 "Year":2018,
-                "BestRank":75
+                "BestRank":75,
+                "AverageRank":277
             },
             {
                 "Year":2019,
-                "BestRank":73
+                "BestRank":73,
+                "AverageRank":298
             },
             {
                 "Year":2020,
-                "BestRank":74
+                "BestRank":74,
+                "AverageRank":314
             },
             {
                 "Year":2021,
-                "BestRank":66
+                "BestRank":66,
+                "AverageRank":325
             },
             {
                 "Year":2022,
-                "BestRank":69
+                "BestRank":69,
+                "AverageRank":314
             }
         ],
         "Australia":[
             {
                 "Year":2017,
-                "BestRank":22
+                "BestRank":22,
+                "AverageRank":205
             },
             {
                 "Year":2018,
-                "BestRank":20
+                "BestRank":20,
+                "AverageRank":192
             },
             {
                 "Year":2019,
-                "BestRank":24
+                "BestRank":24,
+                "AverageRank":191
             },
             {
                 "Year":2020,
-                "BestRank":29
+                "BestRank":29,
+                "AverageRank":184
             },
             {
                 "Year":2021,
-                "BestRank":31
+                "BestRank":31,
+                "AverageRank":185
             },
             {
                 "Year":2022,
-                "BestRank":27
+                "BestRank":27,
+                "AverageRank":180
             }
         ],
         "Austria":[
             {
                 "Year":2017,
-                "BestRank":155
+                "BestRank":155,
+                "AverageRank":212
             },
             {
                 "Year":2018,
-                "BestRank":154
+                "BestRank":154,
+                "AverageRank":207
             },
             {
                 "Year":2019,
-                "BestRank":175
+                "BestRank":175,
+                "AverageRank":218
             },
             {
                 "Year":2020,
-                "BestRank":154
+                "BestRank":154,
+                "AverageRank":204
             },
             {
                 "Year":2021,
-                "BestRank":150
+                "BestRank":150,
+                "AverageRank":202
             },
             {
                 "Year":2022,
-                "BestRank":151
+                "BestRank":151,
+                "AverageRank":204
             }
         ],
         "Belarus":[
             {
                 "Year":2017,
-                "BestRank":354
+                "BestRank":354,
+                "AverageRank":354
             },
             {
                 "Year":2018,
-                "BestRank":334
+                "BestRank":334,
+                "AverageRank":334
             },
             {
                 "Year":2019,
-                "BestRank":354
+                "BestRank":354,
+                "AverageRank":354
             },
             {
                 "Year":2020,
-                "BestRank":351
+                "BestRank":351,
+                "AverageRank":351
             },
             {
                 "Year":2021,
-                "BestRank":317
+                "BestRank":317,
+                "AverageRank":317
             },
             {
                 "Year":2022,
-                "BestRank":295
+                "BestRank":295,
+                "AverageRank":295
             }
         ],
         "Belgium":[
             {
                 "Year":2017,
-                "BestRank":79
+                "BestRank":79,
+                "AverageRank":184
             },
             {
                 "Year":2018,
-                "BestRank":71
+                "BestRank":71,
+                "AverageRank":181
             },
             {
                 "Year":2019,
-                "BestRank":81
+                "BestRank":81,
+                "AverageRank":204
             },
             {
                 "Year":2020,
-                "BestRank":80
+                "BestRank":80,
+                "AverageRank":211
             },
             {
                 "Year":2021,
-                "BestRank":84
+                "BestRank":84,
+                "AverageRank":221
             },
             {
                 "Year":2022,
-                "BestRank":70
+                "BestRank":70,
+                "AverageRank":220
             }
         ],
         "Brazil":[
             {
                 "Year":2017,
-                "BestRank":120
+                "BestRank":120,
+                "AverageRank":211
             },
             {
                 "Year":2018,
-                "BestRank":121
+                "BestRank":121,
+                "AverageRank":205
             },
             {
                 "Year":2019,
-                "BestRank":118
+                "BestRank":118,
+                "AverageRank":228
             },
             {
                 "Year":2020,
-                "BestRank":116
+                "BestRank":116,
+                "AverageRank":229
             },
             {
                 "Year":2021,
-                "BestRank":115
+                "BestRank":115,
+                "AverageRank":243
             },
             {
                 "Year":2022,
-                "BestRank":121
+                "BestRank":121,
+                "AverageRank":236
             }
         ],
         "Canada":[
             {
                 "Year":2017,
-                "BestRank":30
+                "BestRank":30,
+                "AverageRank":183
             },
             {
                 "Year":2018,
-                "BestRank":31
+                "BestRank":31,
+                "AverageRank":188
             },
             {
                 "Year":2019,
-                "BestRank":28
+                "BestRank":28,
+                "AverageRank":197
             },
             {
                 "Year":2020,
-                "BestRank":29
+                "BestRank":29,
+                "AverageRank":201
             },
             {
                 "Year":2021,
-                "BestRank":25
+                "BestRank":25,
+                "AverageRank":202
             },
             {
                 "Year":2022,
-                "BestRank":26
+                "BestRank":26,
+                "AverageRank":188
             }
         ],
         "Chile":[
             {
                 "Year":2017,
-                "BestRank":147
+                "BestRank":147,
+                "AverageRank":174
             },
             {
                 "Year":2018,
-                "BestRank":137
+                "BestRank":137,
+                "AverageRank":169
             },
             {
                 "Year":2019,
-                "BestRank":132
+                "BestRank":132,
+                "AverageRank":170
             },
             {
                 "Year":2020,
-                "BestRank":127
+                "BestRank":127,
+                "AverageRank":158
             },
             {
                 "Year":2021,
-                "BestRank":121
+                "BestRank":121,
+                "AverageRank":151
             },
             {
                 "Year":2022,
-                "BestRank":135
+                "BestRank":135,
+                "AverageRank":159
             }
         ],
         "China (Mainland)":[
             {
                 "Year":2017,
-                "BestRank":24
+                "BestRank":24,
+                "AverageRank":182
             },
             {
                 "Year":2018,
-                "BestRank":25
+                "BestRank":25,
+                "AverageRank":189
             },
             {
                 "Year":2019,
-                "BestRank":17
+                "BestRank":17,
+                "AverageRank":179
             },
             {
                 "Year":2020,
-                "BestRank":16
+                "BestRank":16,
+                "AverageRank":174
             },
             {
                 "Year":2021,
-                "BestRank":15
+                "BestRank":15,
+                "AverageRank":170
             },
             {
                 "Year":2022,
-                "BestRank":17
+                "BestRank":17,
+                "AverageRank":160
             }
         ],
         "Colombia":[
             {
                 "Year":2017,
-                "BestRank":269
+                "BestRank":269,
+                "AverageRank":271
             },
             {
                 "Year":2018,
-                "BestRank":254
+                "BestRank":254,
+                "AverageRank":255
             },
             {
                 "Year":2019,
-                "BestRank":272
+                "BestRank":272,
+                "AverageRank":274
             },
             {
                 "Year":2020,
-                "BestRank":234
+                "BestRank":234,
+                "AverageRank":244
             },
             {
                 "Year":2021,
-                "BestRank":227
+                "BestRank":227,
+                "AverageRank":243
             },
             {
                 "Year":2022,
-                "BestRank":236
+                "BestRank":236,
+                "AverageRank":247
             }
         ],
         "Czech Republic":[
             {
                 "Year":2017,
-                "BestRank":302
+                "BestRank":302,
+                "AverageRank":302
             },
             {
                 "Year":2018,
-                "BestRank":314
+                "BestRank":314,
+                "AverageRank":314
             },
             {
                 "Year":2019,
-                "BestRank":317
+                "BestRank":317,
+                "AverageRank":317
             },
             {
                 "Year":2020,
-                "BestRank":291
+                "BestRank":291,
+                "AverageRank":291
             },
             {
                 "Year":2021,
-                "BestRank":260
+                "BestRank":260,
+                "AverageRank":260
             },
             {
                 "Year":2022,
-                "BestRank":266
+                "BestRank":266,
+                "AverageRank":266
             }
         ],
         "Denmark":[
             {
                 "Year":2017,
-                "BestRank":68
+                "BestRank":68,
+                "AverageRank":212
             },
             {
                 "Year":2018,
-                "BestRank":73
+                "BestRank":73,
+                "AverageRank":214
             },
             {
                 "Year":2019,
-                "BestRank":79
+                "BestRank":79,
+                "AverageRank":210
             },
             {
                 "Year":2020,
-                "BestRank":81
+                "BestRank":81,
+                "AverageRank":207
             },
             {
                 "Year":2021,
-                "BestRank":76
+                "BestRank":76,
+                "AverageRank":197
             },
             {
                 "Year":2022,
-                "BestRank":79
+                "BestRank":79,
+                "AverageRank":194
             }
         ],
         "Egypt":[
             {
                 "Year":2017,
-                "BestRank":365
+                "BestRank":365,
+                "AverageRank":365
             },
             {
                 "Year":2018,
-                "BestRank":395
+                "BestRank":395,
+                "AverageRank":395
             },
             {
                 "Year":2019,
-                "BestRank":420
+                "BestRank":420,
+                "AverageRank":420
             },
             {
                 "Year":2020,
-                "BestRank":395
+                "BestRank":395,
+                "AverageRank":395
             },
             {
                 "Year":2021,
-                "BestRank":411
+                "BestRank":411,
+                "AverageRank":411
             },
             {
                 "Year":2022,
-                "BestRank":445
+                "BestRank":445,
+                "AverageRank":445
             }
         ],
         "Estonia":[
             {
                 "Year":2017,
-                "BestRank":347
+                "BestRank":347,
+                "AverageRank":347
             },
             {
                 "Year":2018,
-                "BestRank":314
+                "BestRank":314,
+                "AverageRank":314
             },
             {
                 "Year":2019,
-                "BestRank":321
+                "BestRank":321,
+                "AverageRank":321
             },
             {
                 "Year":2020,
-                "BestRank":301
+                "BestRank":301,
+                "AverageRank":301
             },
             {
                 "Year":2021,
-                "BestRank":285
+                "BestRank":285,
+                "AverageRank":285
             },
             {
                 "Year":2022,
-                "BestRank":300
+                "BestRank":300,
+                "AverageRank":300
             }
         ],
         "Finland":[
             {
                 "Year":2017,
-                "BestRank":91
+                "BestRank":91,
+                "AverageRank":199
             },
             {
                 "Year":2018,
-                "BestRank":102
+                "BestRank":102,
+                "AverageRank":218
             },
             {
                 "Year":2019,
-                "BestRank":110
+                "BestRank":110,
+                "AverageRank":218
             },
             {
                 "Year":2020,
-                "BestRank":107
+                "BestRank":107,
+                "AverageRank":219
             },
             {
                 "Year":2021,
-                "BestRank":104
+                "BestRank":104,
+                "AverageRank":213
             },
             {
                 "Year":2022,
-                "BestRank":104
+                "BestRank":104,
+                "AverageRank":217
             }
         ],
         "France":[
             {
                 "Year":2017,
-                "BestRank":177
+                "BestRank":177,
+                "AverageRank":230
             },
             {
                 "Year":2018,
-                "BestRank":157
+                "BestRank":157,
+                "AverageRank":246
             },
             {
                 "Year":2019,
-                "BestRank":153
+                "BestRank":153,
+                "AverageRank":265
             },
             {
                 "Year":2020,
-                "BestRank":160
+                "BestRank":160,
+                "AverageRank":285
             },
             {
                 "Year":2021,
-                "BestRank":161
+                "BestRank":161,
+                "AverageRank":289
             },
             {
                 "Year":2022,
-                "BestRank":86
+                "BestRank":86,
+                "AverageRank":248
             }
         ],
         "Germany":[
             {
                 "Year":2017,
-                "BestRank":60
+                "BestRank":60,
+                "AverageRank":194
             },
             {
                 "Year":2018,
-                "BestRank":64
+                "BestRank":64,
+                "AverageRank":193
             },
             {
                 "Year":2019,
-                "BestRank":61
+                "BestRank":61,
+                "AverageRank":196
             },
             {
                 "Year":2020,
-                "BestRank":55
+                "BestRank":55,
+                "AverageRank":199
             },
             {
                 "Year":2021,
-                "BestRank":50
+                "BestRank":50,
+                "AverageRank":201
             },
             {
                 "Year":2022,
-                "BestRank":50
+                "BestRank":50,
+                "AverageRank":211
             }
         ],
         "Hong Kong SAR":[
             {
                 "Year":2017,
-                "BestRank":27
+                "BestRank":27,
+                "AverageRank":92
             },
             {
                 "Year":2018,
-                "BestRank":26
+                "BestRank":26,
+                "AverageRank":91
             },
             {
                 "Year":2019,
-                "BestRank":25
+                "BestRank":25,
+                "AverageRank":92
             },
             {
                 "Year":2020,
-                "BestRank":25
+                "BestRank":25,
+                "AverageRank":85
             },
             {
                 "Year":2021,
-                "BestRank":22
+                "BestRank":22,
+                "AverageRank":80
             },
             {
                 "Year":2022,
-                "BestRank":22
+                "BestRank":22,
+                "AverageRank":84
             }
         ],
         "India":[
             {
                 "Year":2017,
-                "BestRank":152
+                "BestRank":152,
+                "AverageRank":237
             },
             {
                 "Year":2018,
-                "BestRank":172
+                "BestRank":172,
+                "AverageRank":234
             },
             {
                 "Year":2019,
-                "BestRank":162
+                "BestRank":162,
+                "AverageRank":224
             },
             {
                 "Year":2020,
-                "BestRank":152
+                "BestRank":152,
+                "AverageRank":227
             },
             {
                 "Year":2021,
-                "BestRank":172
+                "BestRank":172,
+                "AverageRank":248
             },
             {
                 "Year":2022,
-                "BestRank":177
+                "BestRank":177,
+                "AverageRank":227
             }
         ],
         "Indonesia":[
             {
                 "Year":2017,
-                "BestRank":325
+                "BestRank":325,
+                "AverageRank":325
             },
             {
                 "Year":2018,
-                "BestRank":277
+                "BestRank":277,
+                "AverageRank":277
             },
             {
                 "Year":2019,
-                "BestRank":292
+                "BestRank":292,
+                "AverageRank":292
             },
             {
                 "Year":2020,
-                "BestRank":296
+                "BestRank":296,
+                "AverageRank":296
             },
             {
                 "Year":2021,
-                "BestRank":305
+                "BestRank":305,
+                "AverageRank":305
             },
             {
                 "Year":2022,
-                "BestRank":290
+                "BestRank":290,
+                "AverageRank":290
             }
         ],
         "Ireland":[
             {
                 "Year":2017,
-                "BestRank":98
+                "BestRank":98,
+                "AverageRank":237
             },
             {
                 "Year":2018,
-                "BestRank":88
+                "BestRank":88,
+                "AverageRank":235
             },
             {
                 "Year":2019,
-                "BestRank":104
+                "BestRank":104,
+                "AverageRank":263
             },
             {
                 "Year":2020,
-                "BestRank":108
+                "BestRank":108,
+                "AverageRank":258
             },
             {
                 "Year":2021,
-                "BestRank":101
+                "BestRank":101,
+                "AverageRank":248
             },
             {
                 "Year":2022,
-                "BestRank":101
+                "BestRank":101,
+                "AverageRank":264
             }
         ],
         "Israel":[
             {
                 "Year":2017,
-                "BestRank":148
+                "BestRank":148,
+                "AverageRank":223
             },
             {
                 "Year":2018,
-                "BestRank":145
+                "BestRank":145,
+                "AverageRank":232
             },
             {
                 "Year":2019,
-                "BestRank":154
+                "BestRank":154,
+                "AverageRank":260
             },
             {
                 "Year":2020,
-                "BestRank":162
+                "BestRank":162,
+                "AverageRank":264
             },
             {
                 "Year":2021,
-                "BestRank":177
+                "BestRank":177,
+                "AverageRank":286
             },
             {
                 "Year":2022,
-                "BestRank":198
+                "BestRank":198,
+                "AverageRank":314
             }
         ],
         "Italy":[
             {
                 "Year":2017,
-                "BestRank":183
+                "BestRank":183,
+                "AverageRank":258
             },
             {
                 "Year":2018,
-                "BestRank":170
+                "BestRank":170,
+                "AverageRank":241
             },
             {
                 "Year":2019,
-                "BestRank":156
+                "BestRank":156,
+                "AverageRank":253
             },
             {
                 "Year":2020,
-                "BestRank":149
+                "BestRank":149,
+                "AverageRank":236
             },
             {
                 "Year":2021,
-                "BestRank":137
+                "BestRank":137,
+                "AverageRank":215
             },
             {
                 "Year":2022,
-                "BestRank":142
+                "BestRank":142,
+                "AverageRank":226
             }
         ],
         "Japan":[
             {
                 "Year":2017,
-                "BestRank":34
+                "BestRank":34,
+                "AverageRank":163
             },
             {
                 "Year":2018,
-                "BestRank":28
+                "BestRank":28,
+                "AverageRank":165
             },
             {
                 "Year":2019,
-                "BestRank":23
+                "BestRank":23,
+                "AverageRank":165
             },
             {
                 "Year":2020,
-                "BestRank":22
+                "BestRank":22,
+                "AverageRank":171
             },
             {
                 "Year":2021,
-                "BestRank":24
+                "BestRank":24,
+                "AverageRank":170
             },
             {
                 "Year":2022,
-                "BestRank":23
+                "BestRank":23,
+                "AverageRank":176
             }
         ],
         "Kazakhstan":[
             {
                 "Year":2017,
-                "BestRank":236
+                "BestRank":236,
+                "AverageRank":291
             },
             {
                 "Year":2018,
-                "BestRank":236
+                "BestRank":236,
+                "AverageRank":286
             },
             {
                 "Year":2019,
-                "BestRank":220
+                "BestRank":220,
+                "AverageRank":307
             },
             {
                 "Year":2020,
-                "BestRank":207
+                "BestRank":207,
+                "AverageRank":313
             },
             {
                 "Year":2021,
-                "BestRank":165
+                "BestRank":165,
+                "AverageRank":261
             },
             {
                 "Year":2022,
-                "BestRank":175
+                "BestRank":175,
+                "AverageRank":252
             }
         ],
         "Lebanon":[
             {
                 "Year":2017,
-                "BestRank":228
+                "BestRank":228,
+                "AverageRank":228
             },
             {
                 "Year":2018,
-                "BestRank":235
+                "BestRank":235,
+                "AverageRank":235
             },
             {
                 "Year":2019,
-                "BestRank":237
+                "BestRank":237,
+                "AverageRank":237
             },
             {
                 "Year":2020,
-                "BestRank":244
+                "BestRank":244,
+                "AverageRank":244
             },
             {
                 "Year":2021,
-                "BestRank":220
+                "BestRank":220,
+                "AverageRank":220
             },
             {
                 "Year":2022,
-                "BestRank":242
+                "BestRank":242,
+                "AverageRank":242
             }
         ],
         "Malaysia":[
             {
                 "Year":2017,
-                "BestRank":133
+                "BestRank":133,
+                "AverageRank":265
             },
             {
                 "Year":2018,
-                "BestRank":114
+                "BestRank":114,
+                "AverageRank":218
             },
             {
                 "Year":2019,
-                "BestRank":87
+                "BestRank":87,
+                "AverageRank":182
             },
             {
                 "Year":2020,
-                "BestRank":70
+                "BestRank":70,
+                "AverageRank":154
             },
             {
                 "Year":2021,
-                "BestRank":59
+                "BestRank":59,
+                "AverageRank":132
             },
             {
                 "Year":2022,
-                "BestRank":65
+                "BestRank":65,
+                "AverageRank":138
             }
         ],
         "Mexico":[
             {
                 "Year":2017,
-                "BestRank":128
+                "BestRank":128,
+                "AverageRank":167
             },
             {
                 "Year":2018,
-                "BestRank":122
+                "BestRank":122,
+                "AverageRank":161
             },
             {
                 "Year":2019,
-                "BestRank":113
+                "BestRank":113,
+                "AverageRank":146
             },
             {
                 "Year":2020,
-                "BestRank":103
+                "BestRank":103,
+                "AverageRank":131
             },
             {
                 "Year":2021,
-                "BestRank":100
+                "BestRank":100,
+                "AverageRank":128
             },
             {
                 "Year":2022,
-                "BestRank":105
+                "BestRank":105,
+                "AverageRank":133
             }
         ],
         "Netherlands":[
             {
                 "Year":2017,
-                "BestRank":57
+                "BestRank":57,
+                "AverageRank":145
             },
             {
                 "Year":2018,
-                "BestRank":54
+                "BestRank":54,
+                "AverageRank":152
             },
             {
                 "Year":2019,
-                "BestRank":52
+                "BestRank":52,
+                "AverageRank":155
             },
             {
                 "Year":2020,
-                "BestRank":50
+                "BestRank":50,
+                "AverageRank":162
             },
             {
                 "Year":2021,
-                "BestRank":57
+                "BestRank":57,
+                "AverageRank":167
             },
             {
                 "Year":2022,
-                "BestRank":55
+                "BestRank":55,
+                "AverageRank":161
             }
         ],
         "New Zealand":[
             {
                 "Year":2017,
-                "BestRank":81
+                "BestRank":81,
+                "AverageRank":248
             },
             {
                 "Year":2018,
-                "BestRank":82
+                "BestRank":82,
+                "AverageRank":230
             },
             {
                 "Year":2019,
-                "BestRank":85
+                "BestRank":85,
+                "AverageRank":234
             },
             {
                 "Year":2020,
-                "BestRank":83
+                "BestRank":83,
+                "AverageRank":231
             },
             {
                 "Year":2021,
-                "BestRank":81
+                "BestRank":81,
+                "AverageRank":254
             },
             {
                 "Year":2022,
-                "BestRank":85
+                "BestRank":85,
+                "AverageRank":257
             }
         ],
         "Norway":[
             {
                 "Year":2017,
-                "BestRank":113
+                "BestRank":113,
+                "AverageRank":232
             },
             {
                 "Year":2018,
-                "BestRank":142
+                "BestRank":142,
+                "AverageRank":233
             },
             {
                 "Year":2019,
-                "BestRank":135
+                "BestRank":135,
+                "AverageRank":260
             },
             {
                 "Year":2020,
-                "BestRank":119
+                "BestRank":119,
+                "AverageRank":258
             },
             {
                 "Year":2021,
-                "BestRank":113
+                "BestRank":113,
+                "AverageRank":271
             },
             {
                 "Year":2022,
-                "BestRank":102
+                "BestRank":102,
+                "AverageRank":278
             }
         ],
         "Philippines":[
             {
                 "Year":2017,
-                "BestRank":374
+                "BestRank":374,
+                "AverageRank":374
             },
             {
                 "Year":2018,
-                "BestRank":367
+                "BestRank":367,
+                "AverageRank":367
             },
             {
                 "Year":2019,
-                "BestRank":384
+                "BestRank":384,
+                "AverageRank":384
             },
             {
                 "Year":2020,
-                "BestRank":356
+                "BestRank":356,
+                "AverageRank":356
             },
             {
                 "Year":2021,
-                "BestRank":396
+                "BestRank":396,
+                "AverageRank":396
             },
             {
                 "Year":2022,
-                "BestRank":399
+                "BestRank":399,
+                "AverageRank":399
             }
         ],
         "Portugal":[
             {
                 "Year":2017,
-                "BestRank":323
+                "BestRank":323,
+                "AverageRank":340
             },
             {
                 "Year":2018,
-                "BestRank":301
+                "BestRank":301,
+                "AverageRank":322
             },
             {
                 "Year":2019,
-                "BestRank":328
+                "BestRank":328,
+                "AverageRank":363
             },
             {
                 "Year":2020,
-                "BestRank":338
+                "BestRank":338,
+                "AverageRank":371
             },
             {
                 "Year":2021,
-                "BestRank":357
+                "BestRank":357,
+                "AverageRank":381
             },
             {
                 "Year":2022,
-                "BestRank":295
+                "BestRank":295,
+                "AverageRank":361
             }
         ],
         "Qatar":[
             {
                 "Year":2017,
-                "BestRank":393
+                "BestRank":393,
+                "AverageRank":393
             },
             {
                 "Year":2018,
-                "BestRank":349
+                "BestRank":349,
+                "AverageRank":349
             },
             {
                 "Year":2019,
-                "BestRank":332
+                "BestRank":332,
+                "AverageRank":332
             },
             {
                 "Year":2020,
-                "BestRank":276
+                "BestRank":276,
+                "AverageRank":276
             },
             {
                 "Year":2021,
-                "BestRank":245
+                "BestRank":245,
+                "AverageRank":245
             },
             {
                 "Year":2022,
-                "BestRank":224
+                "BestRank":224,
+                "AverageRank":224
             }
         ],
         "Russia":[
             {
                 "Year":2017,
-                "BestRank":108
+                "BestRank":108,
+                "AverageRank":299
             },
             {
                 "Year":2018,
-                "BestRank":95
+                "BestRank":95,
+                "AverageRank":277
             },
             {
                 "Year":2019,
-                "BestRank":90
+                "BestRank":90,
+                "AverageRank":261
             },
             {
                 "Year":2020,
-                "BestRank":84
+                "BestRank":84,
+                "AverageRank":256
             },
             {
                 "Year":2021,
-                "BestRank":74
+                "BestRank":74,
+                "AverageRank":249
             },
             {
                 "Year":2022,
-                "BestRank":78
+                "BestRank":78,
+                "AverageRank":258
             }
         ],
         "Saudi Arabia":[
             {
                 "Year":2017,
-                "BestRank":189
+                "BestRank":189,
+                "AverageRank":233
             },
             {
                 "Year":2018,
-                "BestRank":173
+                "BestRank":173,
+                "AverageRank":220
             },
             {
                 "Year":2019,
-                "BestRank":189
+                "BestRank":189,
+                "AverageRank":225
             },
             {
                 "Year":2020,
-                "BestRank":186
+                "BestRank":186,
+                "AverageRank":222
             },
             {
                 "Year":2021,
-                "BestRank":143
+                "BestRank":143,
+                "AverageRank":205
             },
             {
                 "Year":2022,
-                "BestRank":109
+                "BestRank":109,
+                "AverageRank":183
             }
         ],
         "Singapore":[
             {
                 "Year":2017,
-                "BestRank":12
+                "BestRank":12,
+                "AverageRank":13
             },
             {
                 "Year":2018,
-                "BestRank":11
+                "BestRank":11,
+                "AverageRank":13
             },
             {
                 "Year":2019,
-                "BestRank":11
+                "BestRank":11,
+                "AverageRank":12
             },
             {
                 "Year":2020,
-                "BestRank":11
+                "BestRank":11,
+                "AverageRank":11
             },
             {
                 "Year":2021,
-                "BestRank":11
+                "BestRank":11,
+                "AverageRank":12
             },
             {
                 "Year":2022,
-                "BestRank":11
+                "BestRank":11,
+                "AverageRank":12
             }
         ],
         "South Africa":[
             {
                 "Year":2017,
-                "BestRank":191
+                "BestRank":191,
+                "AverageRank":315
             },
             {
                 "Year":2018,
-                "BestRank":191
+                "BestRank":191,
+                "AverageRank":305
             },
             {
                 "Year":2019,
-                "BestRank":200
+                "BestRank":200,
+                "AverageRank":329
             },
             {
                 "Year":2020,
-                "BestRank":198
+                "BestRank":198,
+                "AverageRank":342
             },
             {
                 "Year":2021,
-                "BestRank":220
+                "BestRank":220,
+                "AverageRank":360
             },
             {
                 "Year":2022,
-                "BestRank":226
+                "BestRank":226,
+                "AverageRank":377
             }
         ],
         "South Korea":[
             {
                 "Year":2017,
-                "BestRank":35
+                "BestRank":35,
+                "AverageRank":187
             },
             {
                 "Year":2018,
-                "BestRank":36
+                "BestRank":36,
+                "AverageRank":239
             },
             {
                 "Year":2019,
-                "BestRank":36
+                "BestRank":36,
+                "AverageRank":180
             },
             {
                 "Year":2020,
-                "BestRank":37
+                "BestRank":37,
+                "AverageRank":181
             },
             {
                 "Year":2021,
-                "BestRank":37
+                "BestRank":37,
+                "AverageRank":172
             },
             {
                 "Year":2022,
-                "BestRank":36
+                "BestRank":36,
+                "AverageRank":181
             }
         ],
         "Spain":[
             {
                 "Year":2017,
-                "BestRank":160
+                "BestRank":160,
+                "AverageRank":243
             },
             {
                 "Year":2018,
-                "BestRank":156
+                "BestRank":156,
+                "AverageRank":237
             },
             {
                 "Year":2019,
-                "BestRank":159
+                "BestRank":159,
+                "AverageRank":224
             },
             {
                 "Year":2020,
-                "BestRank":165
+                "BestRank":165,
+                "AverageRank":236
             },
             {
                 "Year":2021,
-                "BestRank":183
+                "BestRank":183,
+                "AverageRank":246
             },
             {
                 "Year":2022,
-                "BestRank":168
+                "BestRank":168,
+                "AverageRank":249
             }
         ],
         "Sweden":[
             {
                 "Year":2017,
-                "BestRank":73
+                "BestRank":73,
+                "AverageRank":180
             },
             {
                 "Year":2018,
-                "BestRank":78
+                "BestRank":78,
+                "AverageRank":191
             },
             {
                 "Year":2019,
-                "BestRank":92
+                "BestRank":92,
+                "AverageRank":194
             },
             {
                 "Year":2020,
-                "BestRank":92
+                "BestRank":92,
+                "AverageRank":193
             },
             {
                 "Year":2021,
-                "BestRank":97
+                "BestRank":97,
+                "AverageRank":192
             },
             {
                 "Year":2022,
-                "BestRank":87
+                "BestRank":87,
+                "AverageRank":180
             }
         ],
         "Switzerland":[
             {
                 "Year":2017,
-                "BestRank":8
+                "BestRank":8,
+                "AverageRank":118
             },
             {
                 "Year":2018,
-                "BestRank":10
+                "BestRank":10,
+                "AverageRank":128
             },
             {
                 "Year":2019,
-                "BestRank":7
+                "BestRank":7,
+                "AverageRank":130
             },
             {
                 "Year":2020,
-                "BestRank":6
+                "BestRank":6,
+                "AverageRank":129
             },
             {
                 "Year":2021,
-                "BestRank":6
+                "BestRank":6,
+                "AverageRank":132
             },
             {
                 "Year":2022,
-                "BestRank":8
+                "BestRank":8,
+                "AverageRank":136
             }
         ],
         "Taiwan":[
             {
                 "Year":2017,
-                "BestRank":68
+                "BestRank":68,
+                "AverageRank":235
             },
             {
                 "Year":2018,
-                "BestRank":76
+                "BestRank":76,
+                "AverageRank":233
             },
             {
                 "Year":2019,
-                "BestRank":72
+                "BestRank":72,
+                "AverageRank":239
             },
             {
                 "Year":2020,
-                "BestRank":69
+                "BestRank":69,
+                "AverageRank":243
             },
             {
                 "Year":2021,
-                "BestRank":66
+                "BestRank":66,
+                "AverageRank":247
             },
             {
                 "Year":2022,
-                "BestRank":68
+                "BestRank":68,
+                "AverageRank":260
             }
         ],
         "Thailand":[
             {
                 "Year":2017,
-                "BestRank":252
+                "BestRank":252,
+                "AverageRank":268
             },
             {
                 "Year":2018,
-                "BestRank":245
+                "BestRank":245,
+                "AverageRank":290
             },
             {
                 "Year":2019,
-                "BestRank":271
+                "BestRank":271,
+                "AverageRank":326
             },
             {
                 "Year":2020,
-                "BestRank":247
+                "BestRank":247,
+                "AverageRank":281
             },
             {
                 "Year":2021,
-                "BestRank":208
+                "BestRank":208,
+                "AverageRank":230
             },
             {
                 "Year":2022,
-                "BestRank":215
+                "BestRank":215,
+                "AverageRank":235
             }
         ],
         "United Kingdom":[
             {
                 "Year":2017,
-                "BestRank":4
+                "BestRank":4,
+                "AverageRank":156
             },
             {
                 "Year":2018,
-                "BestRank":5
+                "BestRank":5,
+                "AverageRank":164
             },
             {
                 "Year":2019,
-                "BestRank":5
+                "BestRank":5,
+                "AverageRank":160
             },
             {
                 "Year":2020,
-                "BestRank":4
+                "BestRank":4,
+                "AverageRank":171
             },
             {
                 "Year":2021,
-                "BestRank":5
+                "BestRank":5,
+                "AverageRank":177
             },
             {
                 "Year":2022,
-                "BestRank":2
+                "BestRank":2,
+                "AverageRank":176
             }
         ],
         "United States":[
             {
                 "Year":2017,
-                "BestRank":1
+                "BestRank":1,
+                "AverageRank":152
             },
             {
                 "Year":2018,
-                "BestRank":1
+                "BestRank":1,
+                "AverageRank":156
             },
             {
                 "Year":2019,
-                "BestRank":1
+                "BestRank":1,
+                "AverageRank":156
             },
             {
                 "Year":2020,
-                "BestRank":1
+                "BestRank":1,
+                "AverageRank":163
             },
             {
                 "Year":2021,
-                "BestRank":1
+                "BestRank":1,
+                "AverageRank":169
             },
             {
                 "Year":2022,
-                "BestRank":1
+                "BestRank":1,
+                "AverageRank":170
             }
         ]
     }
