@@ -2,322 +2,322 @@
     "Countries":[
         {
             "Country":"United States",
-            "TopUniversities":438,
+            "TopUniversities":73,
             "AverageScore":57.48,
             "AverageInternationalStudents":4189,
             "PublicRatio":0.53
         },
         {
             "Country":"United Kingdom",
-            "TopUniversities":270,
+            "TopUniversities":45,
             "AverageScore":55.43,
             "AverageInternationalStudents":6805,
             "PublicRatio":1
         },
         {
             "Country":"Australia",
-            "TopUniversities":126,
+            "TopUniversities":21,
             "AverageScore":51.74,
             "AverageInternationalStudents":10295,
             "PublicRatio":1
         },
         {
             "Country":"Germany",
-            "TopUniversities":126,
+            "TopUniversities":21,
             "AverageScore":47.52,
             "AverageInternationalStudents":4469,
             "PublicRatio":1
         },
         {
             "Country":"Canada",
-            "TopUniversities":90,
+            "TopUniversities":15,
             "AverageScore":50.47,
             "AverageInternationalStudents":8342,
             "PublicRatio":1
         },
         {
             "Country":"China (Mainland)",
-            "TopUniversities":84,
+            "TopUniversities":14,
             "AverageScore":54.5,
             "AverageInternationalStudents":3916,
             "PublicRatio":1
         },
         {
             "Country":"Japan",
-            "TopUniversities":84,
+            "TopUniversities":14,
             "AverageScore":54.47,
             "AverageInternationalStudents":2257,
             "PublicRatio":0.86
         },
         {
             "Country":"Netherlands",
-            "TopUniversities":78,
+            "TopUniversities":13,
             "AverageScore":52.91,
             "AverageInternationalStudents":5159,
             "PublicRatio":1
         },
         {
             "Country":"South Korea",
-            "TopUniversities":60,
+            "TopUniversities":10,
             "AverageScore":54.02,
             "AverageInternationalStudents":1877,
             "PublicRatio":0.3
         },
         {
             "Country":"Spain",
-            "TopUniversities":48,
+            "TopUniversities":8,
             "AverageScore":40.96,
             "AverageInternationalStudents":3566,
             "PublicRatio":0.88
         },
         {
             "Country":"Sweden",
-            "TopUniversities":48,
+            "TopUniversities":8,
             "AverageScore":49.03,
             "AverageInternationalStudents":4233,
             "PublicRatio":0.88
         },
         {
             "Country":"Switzerland",
-            "TopUniversities":48,
+            "TopUniversities":8,
             "AverageScore":62.01,
             "AverageInternationalStudents":4179,
             "PublicRatio":1
         },
         {
             "Country":"Russia",
-            "TopUniversities":42,
+            "TopUniversities":7,
             "AverageScore":39.77,
             "AverageInternationalStudents":2634,
             "PublicRatio":1
         },
         {
             "Country":"Belgium",
-            "TopUniversities":42,
+            "TopUniversities":7,
             "AverageScore":46.75,
             "AverageInternationalStudents":4482,
             "PublicRatio":0.86
         },
         {
             "Country":"India",
-            "TopUniversities":36,
+            "TopUniversities":6,
             "AverageScore":41.8,
             "AverageInternationalStudents":62,
             "PublicRatio":1
         },
         {
             "Country":"France",
-            "TopUniversities":36,
+            "TopUniversities":6,
             "AverageScore":39.64,
             "AverageInternationalStudents":4127,
             "PublicRatio":1
         },
         {
             "Country":"Taiwan",
-            "TopUniversities":36,
+            "TopUniversities":6,
             "AverageScore":43.03,
             "AverageInternationalStudents":1927,
             "PublicRatio":1
         },
         {
             "Country":"Hong Kong SAR",
-            "TopUniversities":36,
+            "TopUniversities":6,
             "AverageScore":69.88,
             "AverageInternationalStudents":5536,
             "PublicRatio":1
         },
         {
             "Country":"New Zealand",
-            "TopUniversities":36,
+            "TopUniversities":6,
             "AverageScore":42.64,
             "AverageInternationalStudents":3819,
             "PublicRatio":1
         },
         {
             "Country":"Malaysia",
-            "TopUniversities":30,
+            "TopUniversities":5,
             "AverageScore":48.77,
             "AverageInternationalStudents":3989,
             "PublicRatio":1
         },
         {
             "Country":"Denmark",
-            "TopUniversities":30,
+            "TopUniversities":5,
             "AverageScore":48.49,
             "AverageInternationalStudents":2411,
             "PublicRatio":1
         },
         {
             "Country":"Ireland",
-            "TopUniversities":30,
+            "TopUniversities":5,
             "AverageScore":41.97,
             "AverageInternationalStudents":3584,
             "PublicRatio":1
         },
         {
             "Country":"Italy",
-            "TopUniversities":30,
+            "TopUniversities":5,
             "AverageScore":41.9,
             "AverageInternationalStudents":4444,
             "PublicRatio":1
         },
         {
             "Country":"Israel",
-            "TopUniversities":24,
+            "TopUniversities":4,
             "AverageScore":39.79,
             "AverageInternationalStudents":749,
             "PublicRatio":1
         },
         {
             "Country":"Norway",
-            "TopUniversities":24,
+            "TopUniversities":4,
             "AverageScore":41.58,
             "AverageInternationalStudents":849,
             "PublicRatio":1
         },
         {
             "Country":"Finland",
-            "TopUniversities":24,
+            "TopUniversities":4,
             "AverageScore":45.98,
             "AverageInternationalStudents":1100,
             "PublicRatio":1
         },
         {
             "Country":"Argentina",
-            "TopUniversities":24,
+            "TopUniversities":4,
             "AverageScore":39.79,
             "AverageInternationalStudents":7918,
             "PublicRatio":0.25
         },
         {
             "Country":"South Africa",
-            "TopUniversities":18,
+            "TopUniversities":3,
             "AverageScore":34,
             "AverageInternationalStudents":1069,
             "PublicRatio":1
         },
         {
             "Country":"Brazil",
-            "TopUniversities":18,
+            "TopUniversities":3,
             "AverageScore":44.18,
             "AverageInternationalStudents":1119,
             "PublicRatio":1
         },
         {
             "Country":"Austria",
-            "TopUniversities":18,
+            "TopUniversities":3,
             "AverageScore":44.44,
             "AverageInternationalStudents":7784,
             "PublicRatio":1
         },
         {
             "Country":"Portugal",
-            "TopUniversities":18,
+            "TopUniversities":3,
             "AverageScore":31.69,
             "AverageInternationalStudents":1265,
             "PublicRatio":1
         },
         {
             "Country":"Saudi Arabia",
-            "TopUniversities":18,
+            "TopUniversities":3,
             "AverageScore":43.59,
             "AverageInternationalStudents":3833,
             "PublicRatio":1
         },
         {
             "Country":"Thailand",
-            "TopUniversities":12,
+            "TopUniversities":2,
             "AverageScore":37.61,
             "AverageInternationalStudents":1200,
             "PublicRatio":1
         },
         {
             "Country":"Colombia",
-            "TopUniversities":12,
+            "TopUniversities":2,
             "AverageScore":38.48,
             "AverageInternationalStudents":243,
             "PublicRatio":0.5
         },
         {
             "Country":"Chile",
-            "TopUniversities":12,
+            "TopUniversities":2,
             "AverageScore":49.84,
             "AverageInternationalStudents":1385,
             "PublicRatio":0.5
         },
         {
             "Country":"Kazakhstan",
-            "TopUniversities":12,
+            "TopUniversities":2,
             "AverageScore":37.6,
             "AverageInternationalStudents":1528,
             "PublicRatio":1
         },
         {
             "Country":"Mexico",
-            "TopUniversities":12,
+            "TopUniversities":2,
             "AverageScore":53.08,
             "AverageInternationalStudents":4312,
             "PublicRatio":0.5
         },
         {
             "Country":"Singapore",
-            "TopUniversities":12,
+            "TopUniversities":2,
             "AverageScore":91.55,
             "AverageInternationalStudents":6821,
             "PublicRatio":1
         },
         {
             "Country":"Indonesia",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":35.47,
             "AverageInternationalStudents":1412,
             "PublicRatio":1
         },
         {
             "Country":"Egypt",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":28.67,
             "AverageInternationalStudents":213,
             "PublicRatio":0
         },
         {
             "Country":"Czech Republic",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":35.8,
             "AverageInternationalStudents":9080,
             "PublicRatio":1
         },
         {
             "Country":"Philippines",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":30.03,
             "AverageInternationalStudents":292,
             "PublicRatio":1
         },
         {
             "Country":"Estonia",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":34.47,
             "AverageInternationalStudents":1400,
             "PublicRatio":1
         },
         {
             "Country":"Lebanon",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":40.6,
             "AverageInternationalStudents":1724,
             "PublicRatio":0
         },
         {
             "Country":"Qatar",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":35.13,
             "AverageInternationalStudents":3197,
             "PublicRatio":1
         },
         {
             "Country":"Belarus",
-            "TopUniversities":6,
+            "TopUniversities":1,
             "AverageScore":32.97,
             "AverageInternationalStudents":4264,
             "PublicRatio":1
